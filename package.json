@@ -1,0 +1,14 @@
+{
+  "name": "jest3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "avancado.js",
+ "scripts": {
+  "test": "jest"
+},
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
